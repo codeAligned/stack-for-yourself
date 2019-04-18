@@ -52,3 +52,5 @@ all_tags:
   - javascript
   - mobile
   - working
+
+theme: jekyll-theme-slate
